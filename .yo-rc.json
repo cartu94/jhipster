@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "mySchool",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "creationTimestamp": 1707207804506,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "enableGradleEnterprise": null,
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": false,
+    "entities": [],
+    "feignClient": false,
+    "gradleEnterpriseHost": null,
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "NDg4NThlYjQ0NDZlMTNlOWFlY2NkMGIwOWI4Zjk0MjQ2OTU3ZDcyZDAzYjZhNDQ5MmRmMmVjNWZhNjBiNTU2NDBiOWRmZjMzYzBmOGIyMWJjNWE1N2FiZmIzMDk0N2RlMGJjM2JjN2U2MjM0MjNmNDZlMDMwODQwODUwY2FiOGE=",
+    "messageBroker": false,
+    "nativeLanguage": "it",
+    "packageName": "com.coincydence.myschool",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "searchEngine": false,
+    "serverPort": null,
+    "serverSideOptions": [],
+    "serviceDiscoveryType": false,
+    "skipClient": true,
+    "testFrameworks": [],
+    "websocket": false
+  }
+}
